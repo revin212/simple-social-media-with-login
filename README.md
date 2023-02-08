@@ -15,5 +15,5 @@
 <button>Live View</button>
 </a>
 </p> <br />
-A simple social media website, which include CRUD features such as register/login, create a post, edit a post, and delete a post. This is a full-stack project that uses React JS, Tailwind CSS, Express JS, and MySql stack, along with other libaries such as JWT, dotenv, and bcrypt. This project deployed on three different platform. The database hosted on 'freesqldatabase.com', the backend hosted on 'cyclic.sh', and the frontend hosted on 'firebase.google.com'.
+&nbsp;   &nbsp; A simple social media website, which include CRUD features such as register/login, create a post, edit a post, and delete a post. This is a full-stack project that uses React JS, Tailwind CSS, Express JS, and MySql stack, along with other libaries such as JWT, dotenv, and bcrypt. This project deployed on three different platform. The database hosted on 'freesqldatabase.com', the backend hosted on 'cyclic.sh', and the frontend hosted on 'firebase.google.com'.
 
